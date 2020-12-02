@@ -124,14 +124,14 @@
 
 
    a.banner1 {
-    background: url(.banners//img/banners/burgers/main.png);
+    background: url(.banners/img/banners/burgers/main.png);
     display: block;
     width: 240px;
     height: 400px;
     border-radius: 36px;
    }
    a.banner1:hover {
-    background: url(banners/img/banners/burgers/hover.png);
+    background: url(.banners/img/banners/burgers/hover.png);
    }
    a.banner2 {
     background: url(banners/img/banners/credit/main.png);
