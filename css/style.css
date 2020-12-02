@@ -124,84 +124,84 @@
 
 
    a.banner1 {
-    background: url(.banners/img/banners/burgers/main.png);
+    background: url(/img/banners/burgers/main.png);
     display: block;
     width: 240px;
     height: 400px;
     border-radius: 36px;
    }
    a.banner1:hover {
-    background: url(.banners/img/banners/burgers/hover.png);
+    background: url(/img/banners/burgers/hover.png);
    }
    a.banner2 {
-    background: url(banners/img/banners/credit/main.png);
+    background: url(/img/banners/credit/main.png);
     display: block;
     width: 240px;
     height: 400px;
     border-radius: 36px;
    }
    a.banner2:hover {
-    background: url(banners/img/banners/credit/hover.png);
+    background: url(/img/banners/credit/hover.png);
    }
    a.banner3 {
-    background: url(banners/img/banners/europebet/main.png);
+    background: url(/img/banners/europebet/main.png);
     display: block;
     width: 240px;
     height: 400px;
     border-radius: 36px;
    }
    a.banner3:hover {
-    background: url(banners/img/banners/europebet/hover.png);
+    background: url(/img/banners/europebet/hover.png);
    }
    a.banner4 {
-    background: url(banners/img/banners/glovo/main.png);
+    background: url(/img/banners/glovo/main.png);
     display: block;
     width: 240px;
     height: 400px;
     border-radius: 36px;
    }
    a.banner4:hover {
-    background: url(banners/img/banners/glovo/hover.png);
+    background: url(/img/banners/glovo/hover.png);
    }
    a.banner5 {
-    background: url(banners/img/banners/renttruck/main.png);
+    background: url(/img/banners/renttruck/main.png);
     display: block;
     width: 240px;
     height: 400px;
     border-radius: 36px;
    }
    a.banner5:hover {
-    background: url(banners/img/banners/renttruck/hover.png);
+    background: url(/img/banners/renttruck/hover.png);
    }
    a.banner6 {
-    background: url(banners/img/banners/resize/main.jpg);
+    background: url(/img/banners/resize/main.jpg);
     display: block;
     width: 240px;
     height: 400px;
     border-radius: 36px;
    }
    a.banner6:hover {
-    background: url(banners/img/banners/resize/hover.jpg);
+    background: url(/img/banners/resize/hover.jpg);
    }
    a.banner7 {
-    background: url(banners/img/banners/resize2/main.jpg);
+    background: url(/img/banners/resize2/main.jpg);
     display: block;
     width: 240px;
     height: 400px;
     border-radius: 36px;
    }
    a.banner7:hover {
-    background: url(banners/img/banners/resize2/hover.jpg);
+    background: url(/img/banners/resize2/hover.jpg);
    }
    a.banner8 {
-    background: url(banners/img/banners/tires/main.png);
+    background: url(/img/banners/tires/main.png);
     display: block;
     width: 240px;
     height: 400px;
     border-radius: 36px;
    }
    a.banner8:hover {
-    background: url(banners/img/banners/tires/hover.png);
+    background: url(/img/banners/tires/hover.png);
    }
    .overlay {
      position: absolute;
